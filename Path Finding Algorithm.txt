@@ -1,0 +1,16 @@
+For this project you will need pygame package
+
+you can mannualy install it on your machine by typing in command prompt 
+pip install pygame
+
+or let it install automatically by running the program. 
+
+How does it work? 
+
+1. Launch program
+2. Enter start spot position, for example: 5, 4 (it means 5th column 4th row)
+3. Enter finish spot position, for example: 25, 32 (25th column 32nd row) 
+4. Draw you obsticle by clicking left click on mouse and draw whatever you want
+5. Click Space button and watch what happens. 
+
+Thank you!
